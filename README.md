@@ -16,11 +16,11 @@ A simple Android app built using Kotlin and Jetpack Compose that simulates rolli
 ---
 
 ## Screenshots
-
 ### Main Screen
-*(Add a screenshot of your app's main screen here)*
+![Dice Roll Screen](screenshots/Dice Roller.jpg)
 
----
+### After Rolling
+![After Rolling](screenshots/After Rolling.jpg)
 
 ## Installation and Setup
 
