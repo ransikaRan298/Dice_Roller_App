@@ -17,19 +17,13 @@ A simple Android app built using Kotlin and Jetpack Compose that simulates rolli
 
 ## Screenshots
 
-## Screenshots
+### Dice Roller App Screenshots
 
-### Main Screen
-<img src="screenshots/Dice_Roller.jpg" width="500" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="screenshots/Dice_Roller.jpg" width="400" />
+    <img src="screenshots/After_Rolling.jpg" width="400" />
+</div>
 
-### After Rolling
-<img src="screenshots/After_Rolling.jpg" width="500" />
-
-### Main Screen
-![Dice Roll Screen](screenshots/Dice_Roller.jpg)
-
-### After Rolling
-![After Rolling](screenshots/After_Rolling.jpg)
 
 ## Installation and Setup
 
