@@ -28,16 +28,17 @@ A simple Android app built using Kotlin and Jetpack Compose that simulates rolli
 
 ### Dice Roller App Screenshots
 
-<div style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-    <div style="text-align: center;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
         <p><strong>Before Rolling</strong></p>
         <img src="screenshots/Dice_Roller.jpg" width="400" />
     </div>
-    <div style="text-align: center;">
+    <div style="text-align: center; display: flex; flex-direction: column; align-items: center;">
         <p><strong>After Rolling</strong></p>
         <img src="screenshots/After_Rolling.jpg" width="400" />
     </div>
 </div>
+
 
 ## Installation and Setup
 
